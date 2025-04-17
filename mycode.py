@@ -23,8 +23,8 @@ new_row_loc5 = {'Name': 'New_GF_1', 'Age': 40, 'City': 'City3'}
 df.loc[len(df.index)] = new_row_loc5
 
 # # Adding new row to df for V3
-#new_row_loc6 = {'Name': 'New_GF_2', 'Age': 50, 'City': 'City4'}
-#df.loc[len(df.index)] = new_row_loc6
+new_row_loc6 = {'Name': 'New_GF_2', 'Age': 50, 'City': 'City4'}
+df.loc[len(df.index)] = new_row_loc6
 
 
 
